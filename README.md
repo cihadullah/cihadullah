@@ -1,4 +1,4 @@
-<h1 align="center">1947 CIHADULLAH</h1>
+<h1 align="center"> CIHADULLAH</h1>
 <h3 align="center">CIHAD GAZZE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cihadullah&label=Profile%20views&color=000000&style=plastic" alt="cihadullah" /> </p>
@@ -17,5 +17,5 @@
 
 <h3 align="left">aktif olarak takıldıgım sunucu...:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/1947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/1947" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/404" height="30" width="40" /></a>
 </p>
