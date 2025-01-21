@@ -17,5 +17,5 @@
 
 <h3 align="left">aktif olarak takıldıgım sunucu...:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/404" height="30" width="40" /></a>
+<a href="https://discord.gg/mgFnKrZfRd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/404" height="30" width="40" /></a>
 </p>
